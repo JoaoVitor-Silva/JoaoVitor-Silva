@@ -20,7 +20,7 @@
 - A passionate Self-taught Back-end developer
 - Currently learning Web Development by Self
 - Personal website [link](Em Desenvolvimento)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](Em Desenvolvimento)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/joao.vitor_987)
 
 <br><br>
 
@@ -33,8 +33,8 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+    ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
