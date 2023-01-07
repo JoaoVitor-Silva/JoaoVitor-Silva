@@ -19,7 +19,8 @@
 
 - A passionate Self-taught Back-end developer
 - Currently learning Web Development by Self
-- Personal website [link](Em Desenvolvimento)
+- My personal profile in [HackerRank](https://www.hackerrank.com/vitorjoaomarque1)
+- My Personal website [link](Em Desenvolvimento)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/joao.vitor_987)
 
 <br><br>
